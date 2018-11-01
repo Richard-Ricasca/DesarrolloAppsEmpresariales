@@ -1,0 +1,16 @@
+OBSERVACIONES:
+-No se pudo crear el proyecto laravel debido a que faltaba un archivo dll
+ (Mcryp) para xampp. 
+-Se instaló Wamppserver y se pudo crear el proyecto Laravel.
+-Note que en la dirección del proyectono aparecía el puerto 8080 sino mas bien 
+ localhost/GestorImagenes/public/
+-El proyecto se tenia que crear en la carpeta www y lo hice fuera de esa carpeta.
+-Antes de instalar composer se tuvo que instalar el servidor de lo contrario no se podrá continuar con la instalación.
+
+CONCLUSIONES:
+-Laravel es un framework de desarrollo basado en PHP. 
+ basado en PHP de codigo abierto.
+-Wampp server ya trae incluido php
+-Laravel programa a manera de clases y trabaja de manera organizada.
+-Al crear un proyecto laravel instala las dependencias necesarias para su funcionamiento
+-laravel es un framework que utiliza arquitectura MVC modelo vista controlador.
