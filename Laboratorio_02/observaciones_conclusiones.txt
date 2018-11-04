@@ -1,0 +1,13 @@
+OBSERVACIONES:
+Se tuvo que ejecutar Bloc de notas como administrador para modificar el archivo HOSTS y HTTPD-VHOSTS.CONF.
+Se tuvo que agregar una nueva etiqueta de apertura y cierre <VirtualHost> </VirtualHost> al archivo httpd-vhots.conf.
+Para ingresar a wamppserver se escribirá "root" en Usuario y sin contraseña.
+Se modificó varios nombres de los archivos y ademas funciones públicas y de inglés a español.
+Se creo un archivo para recuperar contraseña.
+
+CONCLUSIONES:
+Namespace nos indica la carpeta en la cual estamos trabajando.
+El archivo Usuario.php es un modelo.
+El comando return nos devolcera la lista.
+La carpeta public es la seccion que se mostrara al usuario.
+La vista tiene una estructura HTML.
