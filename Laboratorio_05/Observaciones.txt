@@ -1,0 +1,6 @@
+Observaciones:
+
+laboratorio 03 se procedió a crear los controladores y vistas.
+laboratorio 04 se hizo la migracion a la base de datos.
+laboratorio 05 se creo y se modifico lo request y las rutas 
+para ver las fotos.
