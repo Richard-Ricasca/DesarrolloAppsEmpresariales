@@ -1,0 +1,17 @@
+OBSERVACIONES 
+No se puede ejecutar un comando artisan si no esta dentro del directorio
+ del proyecto.
+No se podia mostrar la fotos si no tenia la ruta especificada.
+Se tuvo muchos errores de sintaxis mayusculas minusculas.
+Se puede relaizar rollback de la base de datos en caso de tener un
+error o tabla duplicada.
+
+CONCLUSIONES
+Laravel funciona bajo el paradigma de modelo vista controlador.
+Composer se encarga de descargar las dependencias necesarias para
+ el dearrollo del proyecto.
+Artisan es quien realizara la migracion a la base datos.
+Para el desarrollo del proyecto se combino html, php, css, json.
+laravel tiene un metodo de autenticacion, configs.
+
+

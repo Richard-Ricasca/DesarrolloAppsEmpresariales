@@ -1,0 +1,16 @@
+Observaciones:
+
+laboratorio 03 se procedió a crear los controladores y vistas.
+laboratorio 04 se hizo la migracion a la base de datos.
+laboratorio 05 se creo y se modifico lo request y las rutas
+para ver las fotos.
+Cuando no wamp se queda de color naranja fue necesario
+ detener el puerto de MySQL de workbench debido al conflicto de puertos.
+Para detener mysql entramos a servicios de windows.
+
+CONCLUSIONES:
+Artisan mediante el comando migrate hara el traslado de los datos
+ a la base de datos.
+En la base de datos se crea por defecto una tabla migrations.
+El seeder se encargara de llenar la base de datos.
+la primera funcion que se ejecuta es la funcion run en un seeder.
